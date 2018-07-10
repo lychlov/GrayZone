@@ -18,5 +18,6 @@ for i in range(n - 1):
 A = np.linalg.inv(B.T.dot(B)).dot(B.T).dot(Y)
 a = A[0][0]
 u = A[1][0]
+
 print(A)
 print(a, u)
