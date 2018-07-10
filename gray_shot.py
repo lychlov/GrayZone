@@ -1,5 +1,5 @@
 import numpy as np
-import math
+import matplotlib.pyplot as plt
 
 history_data = [0.45, 5, 1, 6, 1.6, 6.31, 2.16, 6.63, 2.91, 6.97, 3.93, 7.33, 5.3, 7.7, 7.16, 8.4]
 history_data = [5.00, 6.00, 6.31, 6.63, 6.97, 7.33, 7.70]
